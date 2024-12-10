@@ -11,4 +11,3 @@
 - ｡🇯‌🇸‌ Javascript fundementals.
 - ⚛ React-Native fundementals.
 - 🐬 Good at Data-Base related coding as well.
----
